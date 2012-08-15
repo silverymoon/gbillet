@@ -1,0 +1,6 @@
+"id","string","nr","mydate","deleted"
+1,"apple",34,"2001-01-01",false
+2,"Oranges",-1.5,"02.02.2005",false
+4,"§hoes",3.1415,"04.04.2005",false
+5,"Blabla",0,"06/06/2009",false
+42,"Huibuh!",0,"~~~",true

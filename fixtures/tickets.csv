@@ -1,0 +1,6 @@
+id,name,event_date,reservation_nr,contact, note,num_food_tickets,num_food_tickets_reduced,num_show_tickets,num_show_tickets_reduced,amount_paid,packaged,deleted
+1,Huber,12.10.2011,12,'','',1,0,0,0,12,false,false
+2,Schmidt,13.10.2011,15,'','',3,1,0,0,0,false,false
+3,Meier,12.10.2011,34,'','',0,0,2,1,30,true,false
+4,Susi,13.10.2011,190,'','',2,1,1,1,50,false,false
+5,Quatsch,12.10.2011,17,'','',0,0,0,0,0,true,false

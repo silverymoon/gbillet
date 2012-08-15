@@ -1,0 +1,5013 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<FacileFormsExport type="records" version="1.7.1 Stable (build 729) [Trinity]">
+	<exportdate>2011-06-08 14:38:39</exportdate>
+	<record id="30">
+		<submitted>2010-07-15 12:02:01</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>81.223.147.108</ip>
+		<browser>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; CMDTDF)</browser>
+		<opsys>win</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="433">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Herr</value>
+		</subrecord>
+		<subrecord id="434">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>Joachim</value>
+		</subrecord>
+		<subrecord id="435">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>Lagger</value>
+		</subrecord>
+		<subrecord id="436">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>Kerscheckstraße 29a</value>
+		</subrecord>
+		<subrecord id="437">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8302</value>
+		</subrecord>
+		<subrecord id="438">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>Vasoldsberg</value>
+		</subrecord>
+		<subrecord id="439">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>j.lagger@tele2.at</value>
+		</subrecord>
+		<subrecord id="440">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>0664 1101503</value>
+		</subrecord>
+		<subrecord id="441">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>23-07-2010</value>
+		</subrecord>
+		<subrecord id="442">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-2</value>
+		</subrecord>
+		<subrecord id="443">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-gourmet</value>
+		</subrecord>
+		<subrecord id="444">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="445">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="446">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="447">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="31">
+		<submitted>2010-07-15 13:38:21</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>83.64.108.38</ip>
+		<browser>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)</browser>
+		<opsys>win</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="448">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Herr</value>
+		</subrecord>
+		<subrecord id="449">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>hans</value>
+		</subrecord>
+		<subrecord id="450">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>uray dr.</value>
+		</subrecord>
+		<subrecord id="451">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>artur-michl-gasse 25</value>
+		</subrecord>
+		<subrecord id="452">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8042</value>
+		</subrecord>
+		<subrecord id="453">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>graz</value>
+		</subrecord>
+		<subrecord id="454">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>hansuray@yahoo.de</value>
+		</subrecord>
+		<subrecord id="455">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>0560 2207499</value>
+		</subrecord>
+		<subrecord id="456">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>24-07-2010</value>
+		</subrecord>
+		<subrecord id="457">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-2</value>
+		</subrecord>
+		<subrecord id="458">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-pur</value>
+		</subrecord>
+		<subrecord id="459">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="460">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="461">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="462">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="32">
+		<submitted>2010-07-15 14:40:12</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>62.47.8.238</ip>
+		<browser>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</browser>
+		<opsys>win</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="463">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Frau</value>
+		</subrecord>
+		<subrecord id="464">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>Hildegard</value>
+		</subrecord>
+		<subrecord id="465">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>Neckermann</value>
+		</subrecord>
+		<subrecord id="466">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>Mooskirchnerstraße 83</value>
+		</subrecord>
+		<subrecord id="467">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8502</value>
+		</subrecord>
+		<subrecord id="468">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>Lannachj</value>
+		</subrecord>
+		<subrecord id="469">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>hildegard.neckermann@aon.at</value>
+		</subrecord>
+		<subrecord id="470">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>0664/4364979</value>
+		</subrecord>
+		<subrecord id="471">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>24-07-2010</value>
+		</subrecord>
+		<subrecord id="472">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-2</value>
+		</subrecord>
+		<subrecord id="473">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-gourmet</value>
+		</subrecord>
+		<subrecord id="474">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="475">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="476">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="477">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="33">
+		<submitted>2010-07-15 17:38:32</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>84.119.83.165</ip>
+		<browser>Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10.4; de; rv:1.9.2.6) Gecko/20100625 Firefox/3.6.6</browser>
+		<opsys>mac</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="478">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Frau</value>
+		</subrecord>
+		<subrecord id="479">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>Marie-Luise</value>
+		</subrecord>
+		<subrecord id="480">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>Haas</value>
+		</subrecord>
+		<subrecord id="481">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>Lessingstrasse 24</value>
+		</subrecord>
+		<subrecord id="482">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8010</value>
+		</subrecord>
+		<subrecord id="483">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>Graz</value>
+		</subrecord>
+		<subrecord id="484">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>marie-luise.haas@inode.at</value>
+		</subrecord>
+		<subrecord id="485">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>06507600325</value>
+		</subrecord>
+		<subrecord id="486">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>26-07-2010</value>
+		</subrecord>
+		<subrecord id="487">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-3</value>
+		</subrecord>
+		<subrecord id="488">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-pur</value>
+		</subrecord>
+		<subrecord id="489">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="490">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+		<subrecord id="491">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="492">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="34">
+		<submitted>2010-07-15 19:23:03</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>93.82.95.41</ip>
+		<browser>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; GTB6.5; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30618; .NET4.0C; InfoPath.1)</browser>
+		<opsys>win</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="493">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Frau</value>
+		</subrecord>
+		<subrecord id="494">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>Klaudia</value>
+		</subrecord>
+		<subrecord id="495">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>Deutschmann</value>
+		</subrecord>
+		<subrecord id="496">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>Grazerstraße 33</value>
+		</subrecord>
+		<subrecord id="497">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8480</value>
+		</subrecord>
+		<subrecord id="498">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>Mureck</value>
+		</subrecord>
+		<subrecord id="499">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>k_deutschmann@web.de</value>
+		</subrecord>
+		<subrecord id="500">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>0664/2410662</value>
+		</subrecord>
+		<subrecord id="501">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>23-07-2010</value>
+		</subrecord>
+		<subrecord id="502">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-5</value>
+		</subrecord>
+		<subrecord id="503">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-pur</value>
+		</subrecord>
+		<subrecord id="504">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="505">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="506">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="507">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="35">
+		<submitted>2010-07-16 01:33:20</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>85.124.69.154</ip>
+		<browser>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)</browser>
+		<opsys>win</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="508">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Frau</value>
+		</subrecord>
+		<subrecord id="509">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>Christine</value>
+		</subrecord>
+		<subrecord id="510">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>Kullnig</value>
+		</subrecord>
+		<subrecord id="511">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>Mariatrosterstraße 87 a</value>
+		</subrecord>
+		<subrecord id="512">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8043</value>
+		</subrecord>
+		<subrecord id="513">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>Graz</value>
+		</subrecord>
+		<subrecord id="514">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>christine.kullnig@kullnig.at</value>
+		</subrecord>
+		<subrecord id="515">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>0699 1818 5242</value>
+		</subrecord>
+		<subrecord id="516">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>26-07-2010</value>
+		</subrecord>
+		<subrecord id="517">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-2</value>
+		</subrecord>
+		<subrecord id="518">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-gourmet</value>
+		</subrecord>
+		<subrecord id="519">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="520">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="521">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="522">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="36">
+		<submitted>2010-07-17 22:03:43</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>84.115.130.198</ip>
+		<browser>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.5; .NET CLR 1.1.4322)</browser>
+		<opsys>win</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="523">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Frau</value>
+		</subrecord>
+		<subrecord id="524">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>Astrid</value>
+		</subrecord>
+		<subrecord id="525">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>Deutschmann</value>
+		</subrecord>
+		<subrecord id="526">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>Fischergasse 27</value>
+		</subrecord>
+		<subrecord id="527">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8010</value>
+		</subrecord>
+		<subrecord id="528">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>Graz</value>
+		</subrecord>
+		<subrecord id="529">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>de_astrid@hotmail.com</value>
+		</subrecord>
+		<subrecord id="530">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>06507702207</value>
+		</subrecord>
+		<subrecord id="531">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>24-07-2010</value>
+		</subrecord>
+		<subrecord id="532">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-2</value>
+		</subrecord>
+		<subrecord id="533">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-gourmet</value>
+		</subrecord>
+		<subrecord id="534">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="535">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="536">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="537">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="37">
+		<submitted>2010-07-18 14:28:31</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>91.115.15.150</ip>
+		<browser>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729)</browser>
+		<opsys>win</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="538">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Herr</value>
+		</subrecord>
+		<subrecord id="539">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>Franz</value>
+		</subrecord>
+		<subrecord id="540">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>Meszaros</value>
+		</subrecord>
+		<subrecord id="541">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>Körösistraße 61b</value>
+		</subrecord>
+		<subrecord id="542">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8010</value>
+		</subrecord>
+		<subrecord id="543">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>Graz</value>
+		</subrecord>
+		<subrecord id="544">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>franz.meszaros@aon.at</value>
+		</subrecord>
+		<subrecord id="545">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>0664/4200114</value>
+		</subrecord>
+		<subrecord id="546">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>23-07-2010</value>
+		</subrecord>
+		<subrecord id="547">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-3</value>
+		</subrecord>
+		<subrecord id="548">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-gourmet</value>
+		</subrecord>
+		<subrecord id="549">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="550">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="551">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="552">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="38">
+		<submitted>2010-07-19 12:23:03</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>86.33.228.153</ip>
+		<browser>Mozilla/5.0 (Windows; U; Windows NT 6.1; de; rv:1.9.2.6) Gecko/20100625 Firefox/3.6.6</browser>
+		<opsys>win</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="553">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Frau</value>
+		</subrecord>
+		<subrecord id="554">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>Dorit</value>
+		</subrecord>
+		<subrecord id="555">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>Hübl</value>
+		</subrecord>
+		<subrecord id="556">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>Hochsteingasse 105</value>
+		</subrecord>
+		<subrecord id="557">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8010</value>
+		</subrecord>
+		<subrecord id="558">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>Graz</value>
+		</subrecord>
+		<subrecord id="559">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>dorit225@utanet.at</value>
+		</subrecord>
+		<subrecord id="560">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>o6646206203</value>
+		</subrecord>
+		<subrecord id="561">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>23-07-2010</value>
+		</subrecord>
+		<subrecord id="562">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-4</value>
+		</subrecord>
+		<subrecord id="563">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-gourmet</value>
+		</subrecord>
+		<subrecord id="564">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="565">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="566">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="567">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="39">
+		<submitted>2010-07-19 18:55:05</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>91.128.16.81</ip>
+		<browser>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322)</browser>
+		<opsys>win</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="568">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Herr</value>
+		</subrecord>
+		<subrecord id="569">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>gerald</value>
+		</subrecord>
+		<subrecord id="570">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>dr.schmidt</value>
+		</subrecord>
+		<subrecord id="571">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>laimburggasse 26</value>
+		</subrecord>
+		<subrecord id="572">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8010</value>
+		</subrecord>
+		<subrecord id="573">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>graz</value>
+		</subrecord>
+		<subrecord id="574">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>luschm@tele2.at</value>
+		</subrecord>
+		<subrecord id="575">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>0316 684918 oder 0699 81944 283</value>
+		</subrecord>
+		<subrecord id="576">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>26-07-2010</value>
+		</subrecord>
+		<subrecord id="577">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-2</value>
+		</subrecord>
+		<subrecord id="578">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-pur</value>
+		</subrecord>
+		<subrecord id="579">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="580">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="581">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="582">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="40">
+		<submitted>2010-07-20 09:11:11</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>212.166.112.250</ip>
+		<browser>Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9.2.6) Gecko/20100625 Firefox/3.6.6 (.NET CLR 3.5.30729)</browser>
+		<opsys>win</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="583">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Frau</value>
+		</subrecord>
+		<subrecord id="584">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>Elisabeth</value>
+		</subrecord>
+		<subrecord id="585">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>Mayer</value>
+		</subrecord>
+		<subrecord id="586">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>Körblergasse 74</value>
+		</subrecord>
+		<subrecord id="587">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8010</value>
+		</subrecord>
+		<subrecord id="588">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>Graz</value>
+		</subrecord>
+		<subrecord id="589">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>Elisabeth.Mayer1@gmx.at</value>
+		</subrecord>
+		<subrecord id="590">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>06504433513</value>
+		</subrecord>
+		<subrecord id="591">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>23-07-2010</value>
+		</subrecord>
+		<subrecord id="592">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-2</value>
+		</subrecord>
+		<subrecord id="593">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-gourmet</value>
+		</subrecord>
+		<subrecord id="594">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="595">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="596">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="597">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="41">
+		<submitted>2010-07-20 09:11:13</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>212.166.112.250</ip>
+		<browser>Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9.2.6) Gecko/20100625 Firefox/3.6.6 (.NET CLR 3.5.30729)</browser>
+		<opsys>win</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="598">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Frau</value>
+		</subrecord>
+		<subrecord id="599">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>Elisabeth</value>
+		</subrecord>
+		<subrecord id="600">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>Mayer</value>
+		</subrecord>
+		<subrecord id="601">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>Körblergasse 74</value>
+		</subrecord>
+		<subrecord id="602">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8010</value>
+		</subrecord>
+		<subrecord id="603">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>Graz</value>
+		</subrecord>
+		<subrecord id="604">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>Elisabeth.Mayer1@gmx.at</value>
+		</subrecord>
+		<subrecord id="605">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>06504433513</value>
+		</subrecord>
+		<subrecord id="606">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>23-07-2010</value>
+		</subrecord>
+		<subrecord id="607">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-2</value>
+		</subrecord>
+		<subrecord id="608">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-gourmet</value>
+		</subrecord>
+		<subrecord id="609">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="610">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="611">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="612">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="42">
+		<submitted>2010-07-20 19:52:48</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>213.162.68.13</ip>
+		<browser>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.5; .NET CLR 1.1.4322)</browser>
+		<opsys>win</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="613">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Herr</value>
+		</subrecord>
+		<subrecord id="614">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>Max</value>
+		</subrecord>
+		<subrecord id="615">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>Lang</value>
+		</subrecord>
+		<subrecord id="616">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>Bergstrasse 55/21</value>
+		</subrecord>
+		<subrecord id="617">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8020</value>
+		</subrecord>
+		<subrecord id="618">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>Graz</value>
+		</subrecord>
+		<subrecord id="619">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>massimo@tmo.at</value>
+		</subrecord>
+		<subrecord id="620">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>0664 222 1610</value>
+		</subrecord>
+		<subrecord id="621">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>23-07-2010</value>
+		</subrecord>
+		<subrecord id="622">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-4</value>
+		</subrecord>
+		<subrecord id="623">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-pur</value>
+		</subrecord>
+		<subrecord id="624">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="625">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="626">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="627">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="43">
+		<submitted>2010-07-21 15:39:14</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>129.27.110.28</ip>
+		<browser>Mozilla/5.0 (Windows; U; Windows NT 6.1; de; rv:1.9.2.6) Gecko/20100625 Firefox/3.6.6</browser>
+		<opsys>win</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="628">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Herr</value>
+		</subrecord>
+		<subrecord id="629">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>Rudolf</value>
+		</subrecord>
+		<subrecord id="630">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>Eichinger</value>
+		</subrecord>
+		<subrecord id="631">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>Wenisbucherstraße 7</value>
+		</subrecord>
+		<subrecord id="632">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8044</value>
+		</subrecord>
+		<subrecord id="633">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>Graz</value>
+		</subrecord>
+		<subrecord id="634">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>r.eichinger@tugraz.at</value>
+		</subrecord>
+		<subrecord id="635">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>0316 873 7515 oder 0316 391856</value>
+		</subrecord>
+		<subrecord id="636">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>26-07-2010</value>
+		</subrecord>
+		<subrecord id="637">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-2</value>
+		</subrecord>
+		<subrecord id="638">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-gourmet</value>
+		</subrecord>
+		<subrecord id="639">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="640">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="641">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="642">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="44">
+		<submitted>2010-07-22 12:57:50</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>178.191.204.139</ip>
+		<browser>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)</browser>
+		<opsys>win</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="643">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Herr</value>
+		</subrecord>
+		<subrecord id="644">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>Adalbert</value>
+		</subrecord>
+		<subrecord id="645">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>Lernpeiss</value>
+		</subrecord>
+		<subrecord id="646">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>Neue Welt Höhe 29</value>
+		</subrecord>
+		<subrecord id="647">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8042</value>
+		</subrecord>
+		<subrecord id="648">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>Graz</value>
+		</subrecord>
+		<subrecord id="649">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>verena.lernpeiss@student.tugraz.at</value>
+		</subrecord>
+		<subrecord id="650">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>461986</value>
+		</subrecord>
+		<subrecord id="651">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>23-07-2010</value>
+		</subrecord>
+		<subrecord id="652">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-2</value>
+		</subrecord>
+		<subrecord id="653">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-pur</value>
+		</subrecord>
+		<subrecord id="654">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="655">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="656">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="657">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="45">
+		<submitted>2010-07-26 09:51:13</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>62.99.207.67</ip>
+		<browser>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)</browser>
+		<opsys>win</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="658">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Frau</value>
+		</subrecord>
+		<subrecord id="659">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>Friederike</value>
+		</subrecord>
+		<subrecord id="660">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>Schneiter</value>
+		</subrecord>
+		<subrecord id="661">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>Schönbrunngasse 45a</value>
+		</subrecord>
+		<subrecord id="662">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8010</value>
+		</subrecord>
+		<subrecord id="663">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>Graz</value>
+		</subrecord>
+		<subrecord id="664">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>rikischneiter@hotmail.com</value>
+		</subrecord>
+		<subrecord id="665">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>0699 81 660 652</value>
+		</subrecord>
+		<subrecord id="666">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>26-07-2010</value>
+		</subrecord>
+		<subrecord id="667">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-3</value>
+		</subrecord>
+		<subrecord id="668">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-pur</value>
+		</subrecord>
+		<subrecord id="669">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="670">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="671">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="672">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="46">
+		<submitted>2010-07-26 15:10:25</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>178.191.32.108</ip>
+		<browser>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322)</browser>
+		<opsys>win</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="673">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Herr</value>
+		</subrecord>
+		<subrecord id="674">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>Otto</value>
+		</subrecord>
+		<subrecord id="675">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>Reisch</value>
+		</subrecord>
+		<subrecord id="676">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>Unterer Plattenweg 37</value>
+		</subrecord>
+		<subrecord id="677">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8043</value>
+		</subrecord>
+		<subrecord id="678">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>Graz</value>
+		</subrecord>
+		<subrecord id="679">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>otto.reisch@gmx.at</value>
+		</subrecord>
+		<subrecord id="680">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>322661</value>
+		</subrecord>
+		<subrecord id="681">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>26-07-2010</value>
+		</subrecord>
+		<subrecord id="682">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-2</value>
+		</subrecord>
+		<subrecord id="683">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-pur</value>
+		</subrecord>
+		<subrecord id="684">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="685">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="686">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value>habe schon auf AB gesprochen</value>
+		</subrecord>
+		<subrecord id="687">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="47">
+		<submitted>2011-05-21 21:35:41</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>86.33.176.56</ip>
+		<browser>Mozilla/5.0 (iPad; U; CPU OS 4_2_1 like Mac OS X; de-de) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</browser>
+		<opsys>mac</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="688">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Frau</value>
+		</subrecord>
+		<subrecord id="689">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>Freifrau von</value>
+		</subrecord>
+		<subrecord id="690">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>Klosett klosoir</value>
+		</subrecord>
+		<subrecord id="691">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>Schloss freien Nichtstun</value>
+		</subrecord>
+		<subrecord id="692">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8010</value>
+		</subrecord>
+		<subrecord id="693">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>graz</value>
+		</subrecord>
+		<subrecord id="694">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>Johanna.Frey@gmx.at</value>
+		</subrecord>
+		<subrecord id="695">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>06644141974</value>
+		</subrecord>
+		<subrecord id="696">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>28-07-2011</value>
+		</subrecord>
+		<subrecord id="697">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-1</value>
+		</subrecord>
+		<subrecord id="698">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-pur</value>
+		</subrecord>
+		<subrecord id="699">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="700">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="701">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="702">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="48">
+		<submitted>2011-06-02 13:01:44</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>93.82.87.224</ip>
+		<browser>Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; de-de) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21.1</browser>
+		<opsys>mac</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="703">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Herr</value>
+		</subrecord>
+		<subrecord id="704">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>Philip</value>
+		</subrecord>
+		<subrecord id="705">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>List</value>
+		</subrecord>
+		<subrecord id="706">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>Neubaugasse 5/1/10</value>
+		</subrecord>
+		<subrecord id="707">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>1070</value>
+		</subrecord>
+		<subrecord id="708">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>Wien</value>
+		</subrecord>
+		<subrecord id="709">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>tplist@mac.com</value>
+		</subrecord>
+		<subrecord id="710">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>0664 3849460</value>
+		</subrecord>
+		<subrecord id="711">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>28-07-2011</value>
+		</subrecord>
+		<subrecord id="712">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-4</value>
+		</subrecord>
+		<subrecord id="713">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-pur</value>
+		</subrecord>
+		<subrecord id="714">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="715">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="716">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="717">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="49">
+		<submitted>2011-06-05 20:57:17</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>138.188.100.254</ip>
+		<browser>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)</browser>
+		<opsys>win</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="718">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Frau</value>
+		</subrecord>
+		<subrecord id="719">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>Beth</value>
+		</subrecord>
+		<subrecord id="720">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>Obenaus</value>
+		</subrecord>
+		<subrecord id="721">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>Quellengasse 4</value>
+		</subrecord>
+		<subrecord id="722">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8010</value>
+		</subrecord>
+		<subrecord id="723">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>Graz</value>
+		</subrecord>
+		<subrecord id="724">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>elisabeth-schaan@gmx.de</value>
+		</subrecord>
+		<subrecord id="725">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>0664/384-96-48</value>
+		</subrecord>
+		<subrecord id="726">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>28-07-2011</value>
+		</subrecord>
+		<subrecord id="727">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-2</value>
+		</subrecord>
+		<subrecord id="728">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-gourmet</value>
+		</subrecord>
+		<subrecord id="729">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="730">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="731">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="732">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+</FacileFormsExport>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<FacileFormsExport type="records" version="1.7.1 Stable (build 729) [Trinity]">
+	<exportdate>2011-07-01 19:47:15</exportdate>
+	<record id="54">
+		<submitted>2011-06-19 20:25:16</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>83.191.111.52</ip>
+		<browser>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322)</browser>
+		<opsys>win</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="793">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Herr</value>
+		</subrecord>
+		<subrecord id="794">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>gerald</value>
+		</subrecord>
+		<subrecord id="795">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>dr.schmidt</value>
+		</subrecord>
+		<subrecord id="796">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>laimburggasse 26</value>
+		</subrecord>
+		<subrecord id="797">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8010</value>
+		</subrecord>
+		<subrecord id="798">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>graz</value>
+		</subrecord>
+		<subrecord id="799">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>luschm@tele2.at</value>
+		</subrecord>
+		<subrecord id="800">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>0316 684918 oder 0699 81944 283</value>
+		</subrecord>
+		<subrecord id="801">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>28-07-2011</value>
+		</subrecord>
+		<subrecord id="802">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-2</value>
+		</subrecord>
+		<subrecord id="803">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-pur</value>
+		</subrecord>
+		<subrecord id="804">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="805">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+		<subrecord id="806">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value>1 X Ermäßigung wegen Behinderung</value>
+		</subrecord>
+		<subrecord id="807">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="55">
+		<submitted>2011-06-21 15:28:00</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>194.48.80.4</ip>
+		<browser>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E; InfoPath.1; SiteKiosk 7.5 Build 295)</browser>
+		<opsys>win</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="808">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Herr</value>
+		</subrecord>
+		<subrecord id="809">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>Gerd</value>
+		</subrecord>
+		<subrecord id="810">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>Renner</value>
+		</subrecord>
+		<subrecord id="811">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>Grazerstraße 34 g</value>
+		</subrecord>
+		<subrecord id="812">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8045</value>
+		</subrecord>
+		<subrecord id="813">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>Graz</value>
+		</subrecord>
+		<subrecord id="814">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>slikar@gmx.at</value>
+		</subrecord>
+		<subrecord id="815">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>0650-4411351</value>
+		</subrecord>
+		<subrecord id="816">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>28-07-2011</value>
+		</subrecord>
+		<subrecord id="817">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-2</value>
+		</subrecord>
+		<subrecord id="818">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-pur</value>
+		</subrecord>
+		<subrecord id="819">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="820">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="821">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="822">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="56">
+		<submitted>2011-06-22 15:27:36</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>188.20.175.146</ip>
+		<browser>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; CMDTDF; InfoPath.2; .NET4.0C; OfficeLiveConnector.1.5; OfficeLivePatch.1.3)</browser>
+		<opsys>win</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="823">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Frau</value>
+		</subrecord>
+		<subrecord id="824">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>Andrea</value>
+		</subrecord>
+		<subrecord id="825">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>Schulz</value>
+		</subrecord>
+		<subrecord id="826">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>Schulzweg 16</value>
+		</subrecord>
+		<subrecord id="827">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8301</value>
+		</subrecord>
+		<subrecord id="828">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>Lassnitzhöhe</value>
+		</subrecord>
+		<subrecord id="829">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>office@gefluegel-schulz.at</value>
+		</subrecord>
+		<subrecord id="830">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>031332633</value>
+		</subrecord>
+		<subrecord id="831">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>28-07-2011</value>
+		</subrecord>
+		<subrecord id="832">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-4</value>
+		</subrecord>
+		<subrecord id="833">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-pur</value>
+		</subrecord>
+		<subrecord id="834">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="835">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="836">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="837">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="57">
+		<submitted>2011-06-22 17:08:46</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>84.119.65.99</ip>
+		<browser>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; GTB7.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C)</browser>
+		<opsys>win</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="838">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Herr</value>
+		</subrecord>
+		<subrecord id="839">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>Antony</value>
+		</subrecord>
+		<subrecord id="840">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>Scholz</value>
+		</subrecord>
+		<subrecord id="841">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>Sturmkreuzweg 5</value>
+		</subrecord>
+		<subrecord id="842">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8047</value>
+		</subrecord>
+		<subrecord id="843">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>Kainbach bei Graz</value>
+		</subrecord>
+		<subrecord id="844">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>antony.scholz@gmx.at</value>
+		</subrecord>
+		<subrecord id="845">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>0664 3077814</value>
+		</subrecord>
+		<subrecord id="846">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>30-07-2011</value>
+		</subrecord>
+		<subrecord id="847">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-1</value>
+		</subrecord>
+		<subrecord id="848">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-pur</value>
+		</subrecord>
+		<subrecord id="849">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="850">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="851">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="852">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="58">
+		<submitted>2011-06-25 09:43:12</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>80.109.192.191</ip>
+		<browser>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)</browser>
+		<opsys>win</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="853">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Herr</value>
+		</subrecord>
+		<subrecord id="854">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>DI Bernhard</value>
+		</subrecord>
+		<subrecord id="855">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>Machatsch</value>
+		</subrecord>
+		<subrecord id="856">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>Neufeldweg 44d</value>
+		</subrecord>
+		<subrecord id="857">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8010</value>
+		</subrecord>
+		<subrecord id="858">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>Graz</value>
+		</subrecord>
+		<subrecord id="859">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>be.machatsch@chello.at</value>
+		</subrecord>
+		<subrecord id="860">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>0316 462536</value>
+		</subrecord>
+		<subrecord id="861">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>30-07-2011</value>
+		</subrecord>
+		<subrecord id="862">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-2</value>
+		</subrecord>
+		<subrecord id="863">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-pur</value>
+		</subrecord>
+		<subrecord id="864">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="865">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="866">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="867">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="59">
+		<submitted>2011-06-25 09:50:13</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>86.32.15.87</ip>
+		<browser>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_3 like Mac OS X; de-de) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5</browser>
+		<opsys>mac</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="868">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Herr</value>
+		</subrecord>
+		<subrecord id="869">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>Paul</value>
+		</subrecord>
+		<subrecord id="870">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>Feichtinger</value>
+		</subrecord>
+		<subrecord id="871">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>Rosenhaingasse 3</value>
+		</subrecord>
+		<subrecord id="872">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8010</value>
+		</subrecord>
+		<subrecord id="873">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>Graz</value>
+		</subrecord>
+		<subrecord id="874">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>feichtinger.paul@utanet.at</value>
+		</subrecord>
+		<subrecord id="875">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>0664/8438056</value>
+		</subrecord>
+		<subrecord id="876">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>28-07-2011</value>
+		</subrecord>
+		<subrecord id="877">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-4</value>
+		</subrecord>
+		<subrecord id="878">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-gourmet</value>
+		</subrecord>
+		<subrecord id="879">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="880">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+		<subrecord id="881">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value>2 Erwachsene 
+2 Kinder (7 Jahre und 11 Jahre)</value>
+		</subrecord>
+		<subrecord id="882">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="60">
+		<submitted>2011-06-25 14:25:08</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>80.109.213.200</ip>
+		<browser>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1</browser>
+		<opsys>win</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>1</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="883">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Herr</value>
+		</subrecord>
+		<subrecord id="884">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>Raffael</value>
+		</subrecord>
+		<subrecord id="885">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>Hiden</value>
+		</subrecord>
+		<subrecord id="886">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>Bozener Straße</value>
+		</subrecord>
+		<subrecord id="887">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8020</value>
+		</subrecord>
+		<subrecord id="888">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>Graz</value>
+		</subrecord>
+		<subrecord id="889">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>hiden.raffael@gmx.at</value>
+		</subrecord>
+		<subrecord id="890">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>06509928527</value>
+		</subrecord>
+		<subrecord id="891">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>28-07-2011</value>
+		</subrecord>
+		<subrecord id="892">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-2</value>
+		</subrecord>
+		<subrecord id="893">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-pur</value>
+		</subrecord>
+		<subrecord id="894">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="895">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+		<subrecord id="896">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="897">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="61">
+		<submitted>2011-06-26 16:23:53</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>62.47.9.220</ip>
+		<browser>Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9.0.19) Gecko/2010031422 Firefox/3.0.19</browser>
+		<opsys>win</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="898">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Frau</value>
+		</subrecord>
+		<subrecord id="899">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>Andrea</value>
+		</subrecord>
+		<subrecord id="900">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>Korschelt</value>
+		</subrecord>
+		<subrecord id="901">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>Rauchleitenstraße 43</value>
+		</subrecord>
+		<subrecord id="902">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8010</value>
+		</subrecord>
+		<subrecord id="903">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>Graz</value>
+		</subrecord>
+		<subrecord id="904">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>andrea.korschelt@gmx.at</value>
+		</subrecord>
+		<subrecord id="905">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>0676/898934001</value>
+		</subrecord>
+		<subrecord id="906">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>28-07-2011</value>
+		</subrecord>
+		<subrecord id="907">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-2</value>
+		</subrecord>
+		<subrecord id="908">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-gourmet</value>
+		</subrecord>
+		<subrecord id="909">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="910">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="911">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="912">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="62">
+		<submitted>2011-06-26 17:11:58</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>88.117.41.69</ip>
+		<browser>Mozilla/5.0 (Windows; U; Windows NT 6.1; de; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13</browser>
+		<opsys>win</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="913">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Frau</value>
+		</subrecord>
+		<subrecord id="914">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>Andrea</value>
+		</subrecord>
+		<subrecord id="915">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>Hofmann-Wellenhof</value>
+		</subrecord>
+		<subrecord id="916">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>Hans-Friz-Weg 28</value>
+		</subrecord>
+		<subrecord id="917">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8010</value>
+		</subrecord>
+		<subrecord id="918">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>Graz</value>
+		</subrecord>
+		<subrecord id="919">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>andrea.hofmann-wellenhof@uni-graz.at</value>
+		</subrecord>
+		<subrecord id="920">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>33 70 37</value>
+		</subrecord>
+		<subrecord id="921">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>30-07-2011</value>
+		</subrecord>
+		<subrecord id="922">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-7</value>
+		</subrecord>
+		<subrecord id="923">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-gourmet</value>
+		</subrecord>
+		<subrecord id="924">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="925">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+		<subrecord id="926">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value>4 Erwachsene
+3 Schüler</value>
+		</subrecord>
+		<subrecord id="927">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="63">
+		<submitted>2011-06-26 17:49:18</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>93.82.111.61</ip>
+		<browser>Mozilla/5.0 (Windows NT 5.1; rv:2.0.1) Gecko/20100101 Firefox/4.0.1</browser>
+		<opsys>win</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="928">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Frau</value>
+		</subrecord>
+		<subrecord id="929">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>Ingrid</value>
+		</subrecord>
+		<subrecord id="930">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>Dorner</value>
+		</subrecord>
+		<subrecord id="931">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>Eichbergstraße 17</value>
+		</subrecord>
+		<subrecord id="932">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8046</value>
+		</subrecord>
+		<subrecord id="933">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>Graz/Stattegg</value>
+		</subrecord>
+		<subrecord id="934">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>ingrid.dorner@aon.at</value>
+		</subrecord>
+		<subrecord id="935">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>06642443744</value>
+		</subrecord>
+		<subrecord id="936">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>28-07-2011</value>
+		</subrecord>
+		<subrecord id="937">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-4</value>
+		</subrecord>
+		<subrecord id="938">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-gourmet</value>
+		</subrecord>
+		<subrecord id="939">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="940">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="941">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="942">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="64">
+		<submitted>2011-06-26 20:52:46</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>88.117.43.111</ip>
+		<browser>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1</browser>
+		<opsys>win</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="943">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Herr</value>
+		</subrecord>
+		<subrecord id="944">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>Hans</value>
+		</subrecord>
+		<subrecord id="945">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>Klingenberg</value>
+		</subrecord>
+		<subrecord id="946">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>Edlingerweg 8</value>
+		</subrecord>
+		<subrecord id="947">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8042</value>
+		</subrecord>
+		<subrecord id="948">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>Graz</value>
+		</subrecord>
+		<subrecord id="949">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>hklingenberg@gmx.at</value>
+		</subrecord>
+		<subrecord id="950">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>06506465081</value>
+		</subrecord>
+		<subrecord id="951">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>31-07-2011</value>
+		</subrecord>
+		<subrecord id="952">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-4</value>
+		</subrecord>
+		<subrecord id="953">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-pur</value>
+		</subrecord>
+		<subrecord id="954">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="955">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="956">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="957">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="65">
+		<submitted>2011-06-27 11:11:25</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>129.27.165.66</ip>
+		<browser>Mozilla/5.0 (Windows NT 5.1; rv:2.0.1) Gecko/20100101 Firefox/4.0.1</browser>
+		<opsys>win</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="958">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Frau</value>
+		</subrecord>
+		<subrecord id="959">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>Anna</value>
+		</subrecord>
+		<subrecord id="960">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>Pendl</value>
+		</subrecord>
+		<subrecord id="961">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>Anichgasse 27</value>
+		</subrecord>
+		<subrecord id="962">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8051</value>
+		</subrecord>
+		<subrecord id="963">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>Graz</value>
+		</subrecord>
+		<subrecord id="964">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>anna.pendl@tugraz.at</value>
+		</subrecord>
+		<subrecord id="965">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>0664/6355277</value>
+		</subrecord>
+		<subrecord id="966">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>30-07-2011</value>
+		</subrecord>
+		<subrecord id="967">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-4</value>
+		</subrecord>
+		<subrecord id="968">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-pur</value>
+		</subrecord>
+		<subrecord id="969">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="970">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="971">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="972">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="66">
+		<submitted>2011-06-28 15:03:54</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>193.46.209.2</ip>
+		<browser>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 1.1.4322)</browser>
+		<opsys>win</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="973">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Frau</value>
+		</subrecord>
+		<subrecord id="974">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>Herma</value>
+		</subrecord>
+		<subrecord id="975">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>Buchacher</value>
+		</subrecord>
+		<subrecord id="976">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>Steyrergass 9a</value>
+		</subrecord>
+		<subrecord id="977">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8010</value>
+		</subrecord>
+		<subrecord id="978">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>Graz</value>
+		</subrecord>
+		<subrecord id="979">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>petra.kotnik@anton-paar.com</value>
+		</subrecord>
+		<subrecord id="980">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>0680 1225221</value>
+		</subrecord>
+		<subrecord id="981">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>30-07-2011</value>
+		</subrecord>
+		<subrecord id="982">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-3</value>
+		</subrecord>
+		<subrecord id="983">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-gourmet</value>
+		</subrecord>
+		<subrecord id="984">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="985">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="986">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="987">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="67">
+		<submitted>2011-06-29 10:34:40</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>217.29.149.36</ip>
+		<browser>Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:5.0) Gecko/20100101 Firefox/5.0</browser>
+		<opsys>mac</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="988">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Herr</value>
+		</subrecord>
+		<subrecord id="989">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>Thomas</value>
+		</subrecord>
+		<subrecord id="990">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>Schlögl</value>
+		</subrecord>
+		<subrecord id="991">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>Kaltenbergstraße 34</value>
+		</subrecord>
+		<subrecord id="992">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8075</value>
+		</subrecord>
+		<subrecord id="993">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>Hart bei Graz</value>
+		</subrecord>
+		<subrecord id="994">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>schloegl@agenturschloegl.at</value>
+		</subrecord>
+		<subrecord id="995">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>0664/3007185</value>
+		</subrecord>
+		<subrecord id="996">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>31-07-2011</value>
+		</subrecord>
+		<subrecord id="997">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-6</value>
+		</subrecord>
+		<subrecord id="998">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-gourmet</value>
+		</subrecord>
+		<subrecord id="999">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="1000">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="1001">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value>Hallo Adam freuen uns auf einen netten Abend
+LG Thomas</value>
+		</subrecord>
+		<subrecord id="1002">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="68">
+		<submitted>2011-06-29 21:30:50</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>86.33.176.40</ip>
+		<browser>Mozilla/5.0 (Windows NT 5.1; rv:2.0.1) Gecko/20100101 Firefox/4.0.1</browser>
+		<opsys>win</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="1003">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Frau</value>
+		</subrecord>
+		<subrecord id="1004">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>Brigitte</value>
+		</subrecord>
+		<subrecord id="1005">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>Wünscher</value>
+		</subrecord>
+		<subrecord id="1006">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>August Musger Gasse 12</value>
+		</subrecord>
+		<subrecord id="1007">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8010</value>
+		</subrecord>
+		<subrecord id="1008">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>Graz</value>
+		</subrecord>
+		<subrecord id="1009">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>adam_frey@hotmail.com</value>
+		</subrecord>
+		<subrecord id="1010">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>0699-15002310</value>
+		</subrecord>
+		<subrecord id="1011">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>28-07-2011</value>
+		</subrecord>
+		<subrecord id="1012">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-3</value>
+		</subrecord>
+		<subrecord id="1013">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-gourmet</value>
+		</subrecord>
+		<subrecord id="1014">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="1015">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="1016">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value>Kein Internet vorhanden, daher Reservierung telefonisch.</value>
+		</subrecord>
+		<subrecord id="1017">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="69">
+		<submitted>2011-06-29 21:33:08</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>86.33.176.40</ip>
+		<browser>Mozilla/5.0 (Windows NT 5.1; rv:2.0.1) Gecko/20100101 Firefox/4.0.1</browser>
+		<opsys>win</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="1018">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Herr</value>
+		</subrecord>
+		<subrecord id="1019">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>?</value>
+		</subrecord>
+		<subrecord id="1020">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>Dr. Diemann</value>
+		</subrecord>
+		<subrecord id="1021">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>August Musger Gasse 12</value>
+		</subrecord>
+		<subrecord id="1022">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8010</value>
+		</subrecord>
+		<subrecord id="1023">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>Graz</value>
+		</subrecord>
+		<subrecord id="1024">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>adam_frey@hotmail.com</value>
+		</subrecord>
+		<subrecord id="1025">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>0650-4148531 oder 313492</value>
+		</subrecord>
+		<subrecord id="1026">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>30-07-2011</value>
+		</subrecord>
+		<subrecord id="1027">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-2</value>
+		</subrecord>
+		<subrecord id="1028">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-pur</value>
+		</subrecord>
+		<subrecord id="1029">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="1030">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="1031">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value>Kein Internet vorhanden, daher Reservierung telefonisch.</value>
+		</subrecord>
+		<subrecord id="1032">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="70">
+		<submitted>2011-06-30 07:26:07</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>82.218.24.85</ip>
+		<browser>Mozilla/5.0 (Windows NT 6.1; rv:5.0) Gecko/20100101 Firefox/5.0</browser>
+		<opsys>win</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="1033">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Herr</value>
+		</subrecord>
+		<subrecord id="1034">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>tester</value>
+		</subrecord>
+		<subrecord id="1035">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>tester</value>
+		</subrecord>
+		<subrecord id="1036">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>teststraße 1</value>
+		</subrecord>
+		<subrecord id="1037">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>34100</value>
+		</subrecord>
+		<subrecord id="1038">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>testhausen</value>
+		</subrecord>
+		<subrecord id="1039">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>b.huber@interdomain.at</value>
+		</subrecord>
+		<subrecord id="1040">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>23456778</value>
+		</subrecord>
+		<subrecord id="1041">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>28-07-2011</value>
+		</subrecord>
+		<subrecord id="1042">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-9</value>
+		</subrecord>
+		<subrecord id="1043">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-gourmet-student</value>
+		</subrecord>
+		<subrecord id="1044">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="1045">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="1046">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value>DIES IST EIN TEST VON B.HUBER</value>
+		</subrecord>
+		<subrecord id="1047">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="71">
+		<submitted>2011-06-30 11:49:51</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>77.235.88.70</ip>
+		<browser>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.3; .NET4.0C)</browser>
+		<opsys>win</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="1048">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Frau</value>
+		</subrecord>
+		<subrecord id="1049">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>Ulrike</value>
+		</subrecord>
+		<subrecord id="1050">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>Kügerl</value>
+		</subrecord>
+		<subrecord id="1051">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>Hugo Wolf-Gasse 12</value>
+		</subrecord>
+		<subrecord id="1052">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8480</value>
+		</subrecord>
+		<subrecord id="1053">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>Mureck</value>
+		</subrecord>
+		<subrecord id="1054">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>u.kuegerl@mureck.steiermark.at</value>
+		</subrecord>
+		<subrecord id="1055">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>06507834783</value>
+		</subrecord>
+		<subrecord id="1056">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>31-07-2011</value>
+		</subrecord>
+		<subrecord id="1057">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-1</value>
+		</subrecord>
+		<subrecord id="1058">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-gourmet</value>
+		</subrecord>
+		<subrecord id="1059">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="1060">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="1061">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="1062">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="72">
+		<submitted>2011-06-30 11:51:11</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>77.235.88.70</ip>
+		<browser>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.3; .NET4.0C)</browser>
+		<opsys>win</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>0</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="1063">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Frau</value>
+		</subrecord>
+		<subrecord id="1064">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>Karoline</value>
+		</subrecord>
+		<subrecord id="1065">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>Kügerl</value>
+		</subrecord>
+		<subrecord id="1066">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>Hugo Wolf-Gasse 12</value>
+		</subrecord>
+		<subrecord id="1067">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8480</value>
+		</subrecord>
+		<subrecord id="1068">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>Mureck</value>
+		</subrecord>
+		<subrecord id="1069">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>u.kuegerl@mureck.steiermark.at</value>
+		</subrecord>
+		<subrecord id="1070">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>06507834783</value>
+		</subrecord>
+		<subrecord id="1071">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>31-07-2011</value>
+		</subrecord>
+		<subrecord id="1072">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-1</value>
+		</subrecord>
+		<subrecord id="1073">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-gourmet-student</value>
+		</subrecord>
+		<subrecord id="1074">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="1075">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="1076">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="1077">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+	<record id="73">
+		<submitted>2011-06-30 17:27:27</submitted>
+		<user_id>0</user_id>
+		<username>-</username>
+		<user_full_name>-</user_full_name>
+		<form>11</form>
+		<title>Kartenbestellung</title>
+		<name>Kartenbestellung</name>
+		<ip>77.235.88.70</ip>
+		<browser>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.3; .NET4.0C)</browser>
+		<opsys>win</opsys>
+		<provider>Unbekannt</provider>
+		<viewed>1</viewed>
+		<exported>1</exported>
+		<archived>0</archived>
+		<pptxid></pptxid>
+		<pppdate>0000-00-00 00:00:00</pppdate>
+		<pptestacc>0</pptestacc>
+		<ppdltries>0</ppdltries>
+		<subrecord id="1078">
+			<element>164</element>
+			<name>bfQuickMode4556935</name>
+			<title>Anrede</title>
+			<type>Select List</type>
+			<value>Frau</value>
+		</subrecord>
+		<subrecord id="1079">
+			<element>205</element>
+			<name>bfQuickMode2204930</name>
+			<title>Vorname</title>
+			<type>Text</type>
+			<value>Irmi</value>
+		</subrecord>
+		<subrecord id="1080">
+			<element>210</element>
+			<name>bfQuickMode6002448</name>
+			<title>Nachname</title>
+			<type>Text</type>
+			<value>Körver</value>
+		</subrecord>
+		<subrecord id="1081">
+			<element>219</element>
+			<name>bfQuickMode5315584</name>
+			<title>Straße und Hausnummer</title>
+			<type>Text</type>
+			<value>Mittertorstraße 16</value>
+		</subrecord>
+		<subrecord id="1082">
+			<element>228</element>
+			<name>bfQuickMode6382348</name>
+			<title>Postleitzahl</title>
+			<type>Text</type>
+			<value>8480</value>
+		</subrecord>
+		<subrecord id="1083">
+			<element>233</element>
+			<name>bfQuickMode194892</name>
+			<title>Ort/Stadt</title>
+			<type>Text</type>
+			<value>Mureck</value>
+		</subrecord>
+		<subrecord id="1084">
+			<element>257</element>
+			<name>bfQuickMode1710436</name>
+			<title>Ihre E-Mail Adresse</title>
+			<type>Text</type>
+			<value>office@ms-mureck.at</value>
+		</subrecord>
+		<subrecord id="1085">
+			<element>262</element>
+			<name>bfQuickMode5086167</name>
+			<title>Telefonnummer</title>
+			<type>Text</type>
+			<value>0664 2002998</value>
+		</subrecord>
+		<subrecord id="1086">
+			<element>238</element>
+			<name>bfQuickMode3046422</name>
+			<title>Veranstaltungstermine</title>
+			<type>Select List</type>
+			<value>31-07-2011</value>
+		</subrecord>
+		<subrecord id="1087">
+			<element>243</element>
+			<name>bfQuickMode1603814</name>
+			<title>Gewünschte Anzahl an Karten</title>
+			<type>Select List</type>
+			<value>Karten-1</value>
+		</subrecord>
+		<subrecord id="1088">
+			<element>252</element>
+			<name>bfQuickMode2520760</name>
+			<title>Wählen Sie Ihre Karten</title>
+			<type>Select List</type>
+			<value>classique-gourmet</value>
+		</subrecord>
+		<subrecord id="1089">
+			<element>271</element>
+			<name>bfQuickMode8342229</name>
+			<title>Pensionistenermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="1090">
+			<element>276</element>
+			<name>bfQuickMode3143655</name>
+			<title>Studenten- und Schülerermäßigung</title>
+			<type>Checkbox</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="1091">
+			<element>321</element>
+			<name>bfQuickMode9354786</name>
+			<title>Zusätzliche Angaben zur Bestellung</title>
+			<type>Textarea</type>
+			<value></value>
+		</subrecord>
+		<subrecord id="1092">
+			<element>330</element>
+			<name>bfQuickMode4422154</name>
+			<title>Ich akzeptiere die</title>
+			<type>Checkbox</type>
+			<value>Ja</value>
+		</subrecord>
+	</record>
+</FacileFormsExport>
+

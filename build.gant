@@ -1,0 +1,36 @@
+ant.property ( environment : 'environment' )
+ant.taskdef (  name : 'groovyc' , classname : 'org.codehaus.groovy.ant.Groovyc' )
+ant.taskdef (  name : 'groovy' , classname : 'org.codehaus.groovy.ant.Groovy' )
+includeTargets << gant.targets.Clean
+includeTool << gant.tools.Execute
+cleanPattern << '**/*~'
+cleanDirectory << 'build'
+
+target(compile:"Compile stuff") {
+    mkdir(dir:"build/classes")
+    groovyc(srcdir:"src", destdir:"build/classes")
+}
+
+target(jarit:"Package stuff") {
+    depends(compile)
+    jar(basedir:"build/classes", destfile:"build/billet.jar", manifest: "dist/manifest.mf")
+}
+
+target(deploy:"zip for install"){
+    depends(jarit)
+    ant.zip(destfile: "dist/billet.zip"){
+        zipfileset(dir: "."){
+            include(name: "lib/*")
+        }
+        zipfileset(dir: "dist"){
+            include(name: "billet.sh")
+            include(name: "billet.bat")
+        }
+        zipfileset(dir:"build"){
+            include(name : "billet.jar")
+        }
+    }
+    copy(file:"dist/billet.zip", todir:"/home/britta/Dropbox/Public")
+}
+
+setDefaultTarget("deploy")
